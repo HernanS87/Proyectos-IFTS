@@ -7,8 +7,8 @@ namespace Ejercicio4
         static void Main(string[] args)
         {
            
-            // Pedir al usuario que ingrese un número entero de 4 dígitos
-            Console.Write("Ingrese un número entero de 4 dígitos: ");
+            // Pedir al usuario que ingrese un número entero
+            Console.Write("Ingrese un número entero: ");
             string num = Console.ReadLine();           
 
                 int suma = 0;   

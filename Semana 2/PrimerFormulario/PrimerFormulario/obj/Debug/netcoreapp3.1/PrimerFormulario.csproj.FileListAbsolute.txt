@@ -1,0 +1,15 @@
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 2\PrimerFormulario\PrimerFormulario\bin\Debug\netcoreapp3.1\PrimerFormulario.exe
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 2\PrimerFormulario\PrimerFormulario\bin\Debug\netcoreapp3.1\PrimerFormulario.deps.json
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 2\PrimerFormulario\PrimerFormulario\bin\Debug\netcoreapp3.1\PrimerFormulario.runtimeconfig.json
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 2\PrimerFormulario\PrimerFormulario\bin\Debug\netcoreapp3.1\PrimerFormulario.runtimeconfig.dev.json
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 2\PrimerFormulario\PrimerFormulario\bin\Debug\netcoreapp3.1\PrimerFormulario.dll
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 2\PrimerFormulario\PrimerFormulario\bin\Debug\netcoreapp3.1\PrimerFormulario.pdb
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 2\PrimerFormulario\PrimerFormulario\obj\Debug\netcoreapp3.1\PrimerFormulario.csproj.GenerateResource.cache
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 2\PrimerFormulario\PrimerFormulario\obj\Debug\netcoreapp3.1\PrimerFormulario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 2\PrimerFormulario\PrimerFormulario\obj\Debug\netcoreapp3.1\PrimerFormulario.AssemblyInfoInputs.cache
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 2\PrimerFormulario\PrimerFormulario\obj\Debug\netcoreapp3.1\PrimerFormulario.AssemblyInfo.cs
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 2\PrimerFormulario\PrimerFormulario\obj\Debug\netcoreapp3.1\PrimerFormulario.csproj.CoreCompileInputs.cache
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 2\PrimerFormulario\PrimerFormulario\obj\Debug\netcoreapp3.1\PrimerFormulario.dll
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 2\PrimerFormulario\PrimerFormulario\obj\Debug\netcoreapp3.1\PrimerFormulario.pdb
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 2\PrimerFormulario\PrimerFormulario\obj\Debug\netcoreapp3.1\PrimerFormulario.genruntimeconfig.cache
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 2\PrimerFormulario\PrimerFormulario\obj\Debug\netcoreapp3.1\PrimerFormulario.frmPrincipal.resources
