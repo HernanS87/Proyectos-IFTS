@@ -1,0 +1,14 @@
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 2\Batallas\Batallas\bin\Debug\net6.0\Batallas.exe
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 2\Batallas\Batallas\bin\Debug\net6.0\Batallas.deps.json
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 2\Batallas\Batallas\bin\Debug\net6.0\Batallas.runtimeconfig.json
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 2\Batallas\Batallas\bin\Debug\net6.0\Batallas.dll
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 2\Batallas\Batallas\bin\Debug\net6.0\Batallas.pdb
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 2\Batallas\Batallas\obj\Debug\net6.0\Batallas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 2\Batallas\Batallas\obj\Debug\net6.0\Batallas.AssemblyInfoInputs.cache
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 2\Batallas\Batallas\obj\Debug\net6.0\Batallas.AssemblyInfo.cs
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 2\Batallas\Batallas\obj\Debug\net6.0\Batallas.csproj.CoreCompileInputs.cache
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 2\Batallas\Batallas\obj\Debug\net6.0\Batallas.dll
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 2\Batallas\Batallas\obj\Debug\net6.0\refint\Batallas.dll
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 2\Batallas\Batallas\obj\Debug\net6.0\Batallas.pdb
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 2\Batallas\Batallas\obj\Debug\net6.0\Batallas.genruntimeconfig.cache
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 2\Batallas\Batallas\obj\Debug\net6.0\ref\Batallas.dll
