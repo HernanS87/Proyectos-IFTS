@@ -1,0 +1,16 @@
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 3\ManipularClases\ManipularClases\bin\Debug\net6.0-windows\ManipularClases.exe
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 3\ManipularClases\ManipularClases\bin\Debug\net6.0-windows\ManipularClases.deps.json
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 3\ManipularClases\ManipularClases\bin\Debug\net6.0-windows\ManipularClases.runtimeconfig.json
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 3\ManipularClases\ManipularClases\bin\Debug\net6.0-windows\ManipularClases.dll
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 3\ManipularClases\ManipularClases\bin\Debug\net6.0-windows\ManipularClases.pdb
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 3\ManipularClases\ManipularClases\obj\Debug\net6.0-windows\ManipularClases.frmPrimerProyecto.resources
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 3\ManipularClases\ManipularClases\obj\Debug\net6.0-windows\ManipularClases.csproj.GenerateResource.cache
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 3\ManipularClases\ManipularClases\obj\Debug\net6.0-windows\ManipularClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 3\ManipularClases\ManipularClases\obj\Debug\net6.0-windows\ManipularClases.AssemblyInfoInputs.cache
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 3\ManipularClases\ManipularClases\obj\Debug\net6.0-windows\ManipularClases.AssemblyInfo.cs
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 3\ManipularClases\ManipularClases\obj\Debug\net6.0-windows\ManipularClases.csproj.CoreCompileInputs.cache
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 3\ManipularClases\ManipularClases\obj\Debug\net6.0-windows\ManipularClases.dll
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 3\ManipularClases\ManipularClases\obj\Debug\net6.0-windows\refint\ManipularClases.dll
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 3\ManipularClases\ManipularClases\obj\Debug\net6.0-windows\ManipularClases.pdb
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 3\ManipularClases\ManipularClases\obj\Debug\net6.0-windows\ManipularClases.genruntimeconfig.cache
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 3\ManipularClases\ManipularClases\obj\Debug\net6.0-windows\ref\ManipularClases.dll
