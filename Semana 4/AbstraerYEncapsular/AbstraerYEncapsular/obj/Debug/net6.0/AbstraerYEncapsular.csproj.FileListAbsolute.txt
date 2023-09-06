@@ -1,0 +1,14 @@
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 4\AbstraerYEncapsular\AbstraerYEncapsular\bin\Debug\net6.0\AbstraerYEncapsular.exe
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 4\AbstraerYEncapsular\AbstraerYEncapsular\bin\Debug\net6.0\AbstraerYEncapsular.deps.json
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 4\AbstraerYEncapsular\AbstraerYEncapsular\bin\Debug\net6.0\AbstraerYEncapsular.runtimeconfig.json
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 4\AbstraerYEncapsular\AbstraerYEncapsular\bin\Debug\net6.0\AbstraerYEncapsular.dll
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 4\AbstraerYEncapsular\AbstraerYEncapsular\bin\Debug\net6.0\AbstraerYEncapsular.pdb
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 4\AbstraerYEncapsular\AbstraerYEncapsular\obj\Debug\net6.0\AbstraerYEncapsular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 4\AbstraerYEncapsular\AbstraerYEncapsular\obj\Debug\net6.0\AbstraerYEncapsular.AssemblyInfoInputs.cache
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 4\AbstraerYEncapsular\AbstraerYEncapsular\obj\Debug\net6.0\AbstraerYEncapsular.AssemblyInfo.cs
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 4\AbstraerYEncapsular\AbstraerYEncapsular\obj\Debug\net6.0\AbstraerYEncapsular.csproj.CoreCompileInputs.cache
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 4\AbstraerYEncapsular\AbstraerYEncapsular\obj\Debug\net6.0\AbstraerYEncapsular.dll
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 4\AbstraerYEncapsular\AbstraerYEncapsular\obj\Debug\net6.0\refint\AbstraerYEncapsular.dll
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 4\AbstraerYEncapsular\AbstraerYEncapsular\obj\Debug\net6.0\AbstraerYEncapsular.pdb
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 4\AbstraerYEncapsular\AbstraerYEncapsular\obj\Debug\net6.0\AbstraerYEncapsular.genruntimeconfig.cache
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 4\AbstraerYEncapsular\AbstraerYEncapsular\obj\Debug\net6.0\ref\AbstraerYEncapsular.dll
