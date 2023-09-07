@@ -14,3 +14,5 @@ C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# -
 C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 3\ManipularClases\ManipularClases\obj\Debug\net6.0-windows\ManipularClases.pdb
 C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 3\ManipularClases\ManipularClases\obj\Debug\net6.0-windows\ManipularClases.genruntimeconfig.cache
 C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 3\ManipularClases\ManipularClases\obj\Debug\net6.0-windows\ref\ManipularClases.dll
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 3\ManipularClases\ManipularClases\obj\Debug\net6.0-windows\ManipularClases.frmLogin.resources
+C:\Users\HERNI\Desktop\Developer\Tecnicatura\Segundo Semestre\POO\Proyectos C# - IFTS\Semana 3\ManipularClases\ManipularClases\obj\Debug\net6.0-windows\ManipularClases.Properties.Resources.resources

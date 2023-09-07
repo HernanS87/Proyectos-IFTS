@@ -12,7 +12,7 @@ namespace ManipularClases
             String nom = txtNombre.Text;
             String ape = txtApellido.Text;
             String? tipo = cboTipo.SelectedItem != null ? cboTipo.SelectedItem.ToString() : "";
-            int doc = int.Parse(txtDoc.Text);
+            int doc = txtDoc.Text != "" ? int.Parse(txtDoc.Text) : 0;
 
             if (nom != "" && ape != "" && txtDoc.Text.Length >= 7 && txtDoc.Text.Length <= 8 && tipo != "")
             {
