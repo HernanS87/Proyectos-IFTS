@@ -18,11 +18,23 @@ namespace ManipularClases
             {
                 Postulante p = new Postulante(nom, ape, tipo, doc);
 
-                MessageBox.Show("Nombre: " + p.Nombre + "\n" +
-                                "Apellido: " + p.Apellido + "\n" +
-                                "Tipo: " + p.Tipo + "\n" +
-                                "Documento: " + p.Documento + "\n",
-                                "Postulante Ingresado Exitosamente!!", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                int fila = dtgvDatos.Rows.Add();
+
+                dtgvDatos.Rows[fila].Cells[0].Value = p.Nombre;
+                dtgvDatos.Rows[fila].Cells[1].Value = p.Apellido;
+                dtgvDatos.Rows[fila].Cells[2].Value = p.Tipo;
+                dtgvDatos.Rows[fila].Cells[3].Value = p.Documento;
+
+                txtNombre.Text = "";
+                txtApellido.Text = "";
+                cboTipo.SelectedItem = null;
+                txtDoc.Text = "";
+
+                //MessageBox.Show("Nombre: " + p.Nombre + "\n" +
+                //                "Apellido: " + p.Apellido + "\n" +
+                //                "Tipo: " + p.Tipo + "\n" +
+                //                "Documento: " + p.Documento + "\n",
+                //                "Postulante Ingresado Exitosamente!!", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
             else
             {

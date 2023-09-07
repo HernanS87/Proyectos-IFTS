@@ -38,6 +38,12 @@
             cboTipo = new ComboBox();
             lblIngresar = new Button();
             lblLimpiar = new Button();
+            dtgvDatos = new DataGridView();
+            Nombre = new DataGridViewTextBoxColumn();
+            Apellido = new DataGridViewTextBoxColumn();
+            Tipo = new DataGridViewTextBoxColumn();
+            Doc = new DataGridViewTextBoxColumn();
+            ((System.ComponentModel.ISupportInitialize)dtgvDatos).BeginInit();
             SuspendLayout();
             // 
             // lblNombre
@@ -126,12 +132,49 @@
             lblLimpiar.UseVisualStyleBackColor = true;
             lblLimpiar.Click += lblLimpiar_Click;
             // 
+            // dtgvDatos
+            // 
+            dtgvDatos.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dtgvDatos.Columns.AddRange(new DataGridViewColumn[] { Nombre, Apellido, Tipo, Doc });
+            dtgvDatos.Location = new Point(46, 221);
+            dtgvDatos.Name = "dtgvDatos";
+            dtgvDatos.ReadOnly = true;
+            dtgvDatos.RowTemplate.Height = 25;
+            dtgvDatos.Size = new Size(424, 203);
+            dtgvDatos.TabIndex = 10;
+            // 
+            // Nombre
+            // 
+            Nombre.HeaderText = "Nombre";
+            Nombre.Name = "Nombre";
+            Nombre.ReadOnly = true;
+            // 
+            // Apellido
+            // 
+            Apellido.HeaderText = "Apellido";
+            Apellido.Name = "Apellido";
+            Apellido.ReadOnly = true;
+            // 
+            // Tipo
+            // 
+            Tipo.HeaderText = "Tipo";
+            Tipo.Name = "Tipo";
+            Tipo.ReadOnly = true;
+            Tipo.Width = 80;
+            // 
+            // Doc
+            // 
+            Doc.HeaderText = "Documento";
+            Doc.Name = "Doc";
+            Doc.ReadOnly = true;
+            // 
             // frmPrimerProyecto
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(128, 255, 128);
-            ClientSize = new Size(507, 260);
+            ClientSize = new Size(507, 436);
+            Controls.Add(dtgvDatos);
             Controls.Add(lblLimpiar);
             Controls.Add(lblIngresar);
             Controls.Add(cboTipo);
@@ -145,6 +188,7 @@
             Name = "frmPrimerProyecto";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "PRIMER PROYECTO";
+            ((System.ComponentModel.ISupportInitialize)dtgvDatos).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -161,5 +205,10 @@
         private ComboBox cboTipo;
         private Button lblIngresar;
         private Button lblLimpiar;
+        private DataGridView dtgvDatos;
+        private DataGridViewTextBoxColumn Nombre;
+        private DataGridViewTextBoxColumn Apellido;
+        private DataGridViewTextBoxColumn Tipo;
+        private DataGridViewTextBoxColumn Doc;
     }
 }
